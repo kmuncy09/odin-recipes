@@ -1,20 +1,30 @@
 body {
     font-size: 30px;
-    margin-left: 25px;
-    margin-right: 25px;
-    margin-top:5px;
+    margin: 10px;
+    margin-top:0px;
     text-align: center;
-    z-index: 2;
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlMTe7eCXJbKyuteRjFANuFxD8xN_dChUSESWkN98sRw&s=10);
-    /*-size: cover; */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    font-family: 'Bad Script', cursive;
+    color: #694702;
+    background-color:#EDA621;
+    font-family: 'Times New Roman';
+    .navbar{
+        background-color: #e89e13;
+        justify-content: space-between;
+        display: flex;
+        padding: 10px;
+    }
 }
-.navbar{
-    color:black;
-    background-color: white;
+a {
+    color: #124B07;
+}
+ul {
+    text-align: left;
+}
+ol {
+    text-align: left;
+}
+.navbar-recipe{
+    background-color: #e89e13;
     justify-content: center;
     display: flex;
+    padding: 10px;
 }
