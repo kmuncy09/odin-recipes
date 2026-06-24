@@ -4,10 +4,10 @@ body {
     margin-top:0px;
     text-align: center;
     color: #694702;
-    background-color:#EDA621;
+    background-color:#F5B847;
     font-family: 'Times New Roman';
     .navbar{
-        background-color: #e89e13;
+        background-color: #F4B134;
         justify-content: space-between;
         display: flex;
         padding: 10px;
@@ -23,7 +23,7 @@ ol {
     text-align: left;
 }
 .navbar-recipe{
-    background-color: #e89e13;
+    background-color: #F4B134;
     justify-content: center;
     display: flex;
     padding: 10px;
