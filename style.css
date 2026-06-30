@@ -22,9 +22,3 @@ ul {
 ol {
     text-align: left;
 }
-.navbar-recipe{
-    background-color: #F4B134;
-    justify-content: center;
-    display: flex;
-    padding: 10px;
-}
